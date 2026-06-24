@@ -1,0 +1,27 @@
+1	1	1779	red	1
+1	1780	3864	Violet	1
+2	1	1688	Thistle	1
+2	1689	2039	Blue	1
+2	2040	3348	DarkKhaki	1
+3	1	1434	LightPink	1
+3	1435	1735	DarkKhaki	1
+3	1736	3497	Blue	1
+4	1	1501	Green	1
+4	1502	3684	#FFD39B	1
+5	1	2256	LightGreen	1
+5	2257	4307	Aquamarine	1
+6	1	3452	RosyBrown	1
+6	3453	4981	Olive	1
+6	4982	6522	Yellow	1
+7	1	2011	DarkSlateBlue	1
+7	2012	3981	#8470FF	1
+8	1	1593	#00BFFF	1
+8	1594	3377	#66CDAA	1
+8	3378	4553	Coral	1
+9	1	2037	Magenta	1
+9	2038	3864	Maroon	1
+10	1	2333	Cyan	1
+10	2334	4705	DarkTurquoise	1
+11	1	1689	Orange	1
+11	1690	3883	Chocolate	1
+
